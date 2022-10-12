@@ -126,7 +126,7 @@ todo setup railcontrol for manual mode
 
 ## Sources
 
-The Raspberry PI CAN Central Station (german-forum) [open](https://www.stummiforum.de/t148950f7-Raspberry-Pi-CAN-Interface-zur-Gleisbox-Anbindung.html#msg2223890)
-The first intro from my post in the forum (germen forum) [open](https://www.stummiforum.de/t200531f5-Anfaenger-DIY-Central-Station.html)
-The post about the s88 troubleshooting (german forum) [open](https://www.stummiforum.de/t207818f5-Anfaenger-DIY-Central-Station-Rueckmelder.html)
-s88udp project [open](http://www.s88udp.de/)
+The Raspberry PI CAN Central Station (german-forum) [open](https://www.stummiforum.de/t148950f7-Raspberry-Pi-CAN-Interface-zur-Gleisbox-Anbindung.html#msg2223890) \
+The first intro from my post in the forum (germen forum) [open](https://www.stummiforum.de/t200531f5-Anfaenger-DIY-Central-Station.html) \
+The post about the s88 troubleshooting (german forum) [open](https://www.stummiforum.de/t207818f5-Anfaenger-DIY-Central-Station-Rueckmelder.html) \
+s88udp project [open](https://github.com/GBert/railroad/tree/master/can2udp)
