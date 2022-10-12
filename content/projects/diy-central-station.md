@@ -58,7 +58,7 @@ So overall i spend 330 € on initial Train set, 80€ on PC-like control and 30
 
 ## The theory
 
-![CentralStation](./images/CentralStation.png)
+![CentralStation](../images/CentralStation.png)
 
 ## Stage 0
 
