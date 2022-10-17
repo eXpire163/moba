@@ -2,4 +2,4 @@ baseURL = 'https://expire163.github.io/moba/'
 languageCode = 'en-us'
 title = 'Moba Projects'
 theme= "ananke"
-publishDir ="docs"
+# publishDir ="docs"
