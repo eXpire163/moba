@@ -10,7 +10,7 @@ After some playing around with a pringles pipe as a shed i decided to upgrade to
 
 Ok, calling it a research might be total overkill, but I googled for some pictures and found some nice modern sheds as a baseline.
 
-![walkway](./images/engine-shed/walkway.jpg)
+![walkway](../images/engine-shed/walkway.jpg)
 
 ## Design
 
@@ -22,7 +22,7 @@ Ok, calling it a research might be total overkill, but I googled for some pictur
 1. placed a locomotive on a track and drove in : party ;)
 
 
-![indoor](./images/engine-shed/indoor.jpg)
+![indoor](../images/engine-shed/indoor.jpg)
 
 ## Get some details
 
@@ -33,7 +33,7 @@ Ok, calling it a research might be total overkill, but I googled for some pictur
 1. googled for some light ideas and came up with 3 LEDs from a LED Strip
 1. created a cabelcanal and used it to hide the wire and upside down to have a enclosure for the LEDs
 
-![outdoor](./images/engine-shed/outdoor.jpg)
+![outdoor](../images/engine-shed/outdoor.jpg)
 
 ## Refactoring
 
@@ -49,7 +49,7 @@ Ok, calling it a research might be total overkill, but I googled for some pictur
 
 Was a lot of fun to create, learned a lot about openSCAD and i have a small engine shed now.
 
-![build](./images/engine-shed/build.gif)
+![build](../images/engine-shed/build.gif)
 
 ##  Links
 
